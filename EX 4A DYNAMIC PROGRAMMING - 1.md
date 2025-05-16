@@ -18,9 +18,9 @@ To find longest common subsequence using Dynamic Programming.
 
 ## Program:
 
-Developed by: Kishore S
+Developed by: GANESH R
 
-Register Number:  212222240050
+Register Number:  212222240029
 
 ```python
 def lcs(u, v):
